@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tauqeer Nasir</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
 
-- 🔭 I’m currently working on Reactjs & React Native FullStack [Djaminn - CO-CREATION FOR MUSICIANS.](https://play.djaminn.com/)
-
 - 🌱 I’m currently learning **React & React Native**
 
 - 💬 Ask me about **React & React Native**
